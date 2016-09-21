@@ -1,5 +1,6 @@
 # AR-QSAR-Modeling
-Model for predicting the AR binding ability for environmental chemicals.
+Model for predicting the AR binding ability for environmental chemicals. 
+[![DOI](https://zenodo.org/badge/68849493.svg)](https://zenodo.org/badge/latestdoi/68849493)
 
 Purpose: this code takes an input of PaDEL descriptors and uses the SVM model to predict androgen receptor (AR). 
 The ARQSARModeling.R is the R code for generating the model
